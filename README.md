@@ -1,7 +1,5 @@
 # Snake_game
 Snake Game made on python
-Certainly! Here’s a concise summary of the Snake game code that you can use in your README.md file on GitHub:
-
 ---
 
 ## Snake Game

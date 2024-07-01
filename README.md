@@ -26,7 +26,7 @@ This project implements the classic Snake game using Python and Tkinter for GUI.
 - 
 ![Screenshot 2024-07-01 170810](https://github.com/lRennan/Snake_game/assets/94014673/0d99d671-95cb-4cf1-b731-efaf714f474a)
 
-when you have a collision with walls or the snake's own body 
-
+ Display a game over screen upon collision with walls or the snake's own body.
+ 
 ![Screenshot 2024-07-01 170825](https://github.com/lRennan/Snake_game/assets/94014673/a324f4eb-6f87-429a-bb9b-e867afed4e2f)
 
